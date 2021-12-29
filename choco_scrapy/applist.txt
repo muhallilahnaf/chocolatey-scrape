@@ -1,0 +1,30 @@
+7Zip
+Advanced Renamer
+Brave
+CPUID HWMonitor
+Ditto
+Everything
+FastStone Image Viewer
+Free Download Manager
+Git
+Google Chrome
+Google Drive
+LibreOffice
+Microsoft Visual Studio Code
+Mozilla Firefox
+MusicBee
+Nodejs
+Notepad++
+OBS Studio
+Python
+qBittorrent
+Revo Uninstaller
+SumatraPDF
+TeamViewer
+Telegram
+TurboTop
+Unified Remote
+VLC media player
+Windscribe
+WO Mic Client
+Zoom

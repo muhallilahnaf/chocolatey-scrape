@@ -1,0 +1,2393 @@
+{
+    "7zip-zstd": [
+        {
+            "name": "7zip-zstd (Install)",
+            "link": "https://community.chocolatey.org/packages/7zip-zstd/1.4.9.20",
+            "downloads": "136366"
+        }
+    ],
+    "7zip": [
+        {
+            "name": "7-Zip",
+            "link": "https://community.chocolatey.org/packages/7zip",
+            "downloads": "6834093"
+        },
+        {
+            "name": "[Deprecated] 7-Zip (Portable, CommandLine)",
+            "link": "https://community.chocolatey.org/packages/7zip.commandline",
+            "extension": "commandline",
+            "downloads": "801004"
+        },
+        {
+            "name": "7-Zip (Portable, CommandLine)",
+            "link": "https://community.chocolatey.org/packages/7zip.portable",
+            "extension": "portable",
+            "downloads": "532295"
+        },
+        {
+            "name": "7-Zip (Install)",
+            "link": "https://community.chocolatey.org/packages/7zip.install",
+            "extension": "install",
+            "downloads": "11253132"
+        }
+    ],
+    "peazip": [
+        {
+            "name": "PeaZip (Portable)",
+            "link": "https://community.chocolatey.org/packages/peazip.portable",
+            "extension": "portable",
+            "downloads": "5123"
+        },
+        {
+            "name": "PeaZip (Install)",
+            "link": "https://community.chocolatey.org/packages/peazip.install",
+            "extension": "install",
+            "downloads": "189815"
+        }
+    ],
+    "exfat7z": [
+        {
+            "name": "exfat7z (Install)",
+            "link": "https://community.chocolatey.org/packages/exfat7z",
+            "downloads": "296"
+        }
+    ],
+    "bandizip": [
+        {
+            "name": "Bandizip",
+            "link": "https://community.chocolatey.org/packages/bandizip",
+            "downloads": "28258"
+        }
+    ],
+    "forensic7z": [
+        {
+            "name": "forensic7z (Install)",
+            "link": "https://community.chocolatey.org/packages/forensic7z",
+            "downloads": "752"
+        }
+    ],
+    "mfilter": [
+        {
+            "name": "mfilter (Install)",
+            "link": "https://community.chocolatey.org/packages/mfilter",
+            "downloads": "182"
+        }
+    ],
+    "advanced-renamer": [
+        {
+            "name": "Advanced Renamer",
+            "link": "https://community.chocolatey.org/packages/advanced-renamer",
+            "downloads": "14141"
+        },
+        {
+            "name": "Advanced Renamer (Portable)",
+            "link": "https://community.chocolatey.org/packages/advanced-renamer.portable",
+            "extension": "portable",
+            "downloads": "4963"
+        },
+        {
+            "name": "Advanced Renamer (Install)",
+            "link": "https://community.chocolatey.org/packages/advanced-renamer.install",
+            "extension": "install",
+            "downloads": "18474"
+        }
+    ],
+    "brave": [
+        {
+            "name": "Brave Browser",
+            "link": "https://community.chocolatey.org/packages/brave/1.33.106",
+            "downloads": "636145"
+        }
+    ],
+    "minecraft-education": [
+        {
+            "name": "Minecraft Education",
+            "link": "https://community.chocolatey.org/packages/minecraft-education",
+            "downloads": "8751"
+        }
+    ],
+    "astromenace": [
+        {
+            "name": "AstroMenace (Install)",
+            "link": "https://community.chocolatey.org/packages/astromenace",
+            "downloads": "704"
+        }
+    ],
+    "ditto": [
+        {
+            "name": "Ditto Clipboard",
+            "link": "https://community.chocolatey.org/packages/ditto/3.24.214.0",
+            "downloads": "142500"
+        },
+        {
+            "name": "Ditto Clipboard",
+            "link": "https://community.chocolatey.org/packages/ditto.install/3.24.214.0",
+            "extension": "install",
+            "downloads": "39003"
+        },
+        {
+            "name": "Ditto Clipboard Portable",
+            "link": "https://community.chocolatey.org/packages/ditto.portable/3.24.214.0",
+            "extension": "portable",
+            "downloads": "20272"
+        }
+    ],
+    "everything": [
+        {
+            "name": "Everything",
+            "link": "https://community.chocolatey.org/packages/Everything",
+            "downloads": "585198"
+        },
+        {
+            "name": "Everything (Portable)",
+            "link": "https://community.chocolatey.org/packages/everything.portable",
+            "extension": "portable",
+            "downloads": "5548"
+        }
+    ],
+    "everythingtoolbar": [
+        {
+            "name": "EverythingToolbar",
+            "link": "https://community.chocolatey.org/packages/everythingtoolbar",
+            "downloads": "1525"
+        }
+    ],
+    "wox": [
+        {
+            "name": "Wox",
+            "link": "https://community.chocolatey.org/packages/wox",
+            "downloads": "23240"
+        }
+    ],
+    "ags": [
+        {
+            "name": "Adventure Game Studio",
+            "link": "https://community.chocolatey.org/packages/ags",
+            "downloads": "1317"
+        }
+    ],
+    "siw": [
+        {
+            "name": "siw (Install)",
+            "link": "https://community.chocolatey.org/packages/siw",
+            "downloads": "23979"
+        }
+    ],
+    "windscribe": [
+        {
+            "name": "Windscribe (Install)",
+            "link": "https://community.chocolatey.org/packages/windscribe",
+            "downloads": "7538"
+        }
+    ],
+    "php-service": [
+        {
+            "name": "PHP Service",
+            "link": "https://community.chocolatey.org/packages/php-service",
+            "downloads": "6421"
+        }
+    ],
+    "jumpshare": [
+        {
+            "name": "Jumpshare",
+            "link": "https://community.chocolatey.org/packages/jumpshare",
+            "downloads": "1022"
+        }
+    ],
+    "docker-compose": [
+        {
+            "name": "docker-compose",
+            "link": "https://community.chocolatey.org/packages/docker-compose",
+            "downloads": "196315"
+        }
+    ],
+    "chef-workstation": [
+        {
+            "name": "Chef Workstation",
+            "link": "https://community.chocolatey.org/packages/chef-workstation",
+            "downloads": "10634"
+        }
+    ],
+    "nitroreader": [
+        {
+            "name": "Nitro Reader",
+            "link": "https://community.chocolatey.org/packages/nitroreader.install",
+            "extension": "install",
+            "downloads": "83393"
+        }
+    ],
+    "multicommander": [
+        {
+            "name": "MultiCommander (Install)",
+            "link": "https://community.chocolatey.org/packages/MultiCommander",
+            "downloads": "16932"
+        }
+    ],
+    "orion": [
+        {
+            "name": "Orion",
+            "link": "https://community.chocolatey.org/packages/orion",
+            "downloads": "639"
+        }
+    ],
+    "join": [
+        {
+            "name": "join.me",
+            "link": "https://community.chocolatey.org/packages/join.me",
+            "extension": "me",
+            "downloads": "12902"
+        }
+    ],
+    "mozillabuild": [
+        {
+            "name": "MozillaBuild",
+            "link": "https://community.chocolatey.org/packages/MozillaBuild",
+            "downloads": "3473"
+        }
+    ],
+    "biicode": [
+        {
+            "name": "biicode",
+            "link": "https://community.chocolatey.org/packages/biicode",
+            "downloads": "3031"
+        }
+    ],
+    "vjredist": [
+        {
+            "name": "Microsoft Visual J# 2.0 Redistributable Package",
+            "link": "https://community.chocolatey.org/packages/vjredist",
+            "downloads": "21721"
+        }
+    ],
+    "jabra-direct": [
+        {
+            "name": "Jabra Direct",
+            "link": "https://community.chocolatey.org/packages/jabra-direct",
+            "downloads": "68527"
+        }
+    ],
+    "linqpad5": [
+        {
+            "name": "LINQPad 5 (Portable, AnyCPU build)",
+            "link": "https://community.chocolatey.org/packages/linqpad5.AnyCPU.portable/5.44.02",
+            "extension": "anycpu.portable",
+            "downloads": "20700"
+        },
+        {
+            "name": "LINQPad 5 (Portable)",
+            "link": "https://community.chocolatey.org/packages/linqpad5.portable/5.44.02",
+            "extension": "portable",
+            "downloads": "16254"
+        }
+    ],
+    "syncthing-gtk": [
+        {
+            "name": "Syncthing GTK",
+            "link": "https://community.chocolatey.org/packages/syncthing-gtk",
+            "downloads": "19244"
+        }
+    ],
+    "jdupes": [
+        {
+            "name": "jdupes",
+            "link": "https://community.chocolatey.org/packages/jdupes",
+            "downloads": "2222"
+        }
+    ],
+    "vt-cli": [
+        {
+            "name": "VirusTotal CLI",
+            "link": "https://community.chocolatey.org/packages/vt-cli",
+            "downloads": "1197"
+        }
+    ],
+    "lua": [
+        {
+            "name": "Lua For Windows",
+            "link": "https://community.chocolatey.org/packages/Lua",
+            "downloads": "23818"
+        }
+    ],
+    "fpsmonitor": [
+        {
+            "name": "FPS Monitor",
+            "link": "https://community.chocolatey.org/packages/fpsmonitor",
+            "downloads": "163"
+        }
+    ],
+    "4k-tokkit": [
+        {
+            "name": "4K Tokkit (Install)",
+            "link": "https://community.chocolatey.org/packages/4k-tokkit",
+            "downloads": "91"
+        }
+    ],
+    "win-vind": [
+        {
+            "name": "win-vind (Install)",
+            "link": "https://community.chocolatey.org/packages/win-vind",
+            "downloads": "230"
+        }
+    ],
+    "nsis-unicode": [
+        {
+            "name": "NSIS Unicode",
+            "link": "https://community.chocolatey.org/packages/nsis-unicode",
+            "downloads": "7464"
+        }
+    ],
+    "anyrail6": [
+        {
+            "name": "AnyRail6",
+            "link": "https://community.chocolatey.org/packages/AnyRail6",
+            "downloads": "4375"
+        }
+    ],
+    "fsviewer": [
+        {
+            "name": "FastStone Image Viewer",
+            "link": "https://community.chocolatey.org/packages/fsviewer",
+            "downloads": "89922"
+        }
+    ],
+    "freedownloadmanager": [
+        {
+            "name": "Free Download Manager",
+            "link": "https://community.chocolatey.org/packages/FreeDownloadManager",
+            "downloads": "30930"
+        }
+    ],
+    "nmm": [
+        {
+            "name": "Nexus Mod Manager",
+            "link": "https://community.chocolatey.org/packages/nmm",
+            "downloads": "5944"
+        }
+    ],
+    "drivereasyfree": [
+        {
+            "name": "Driver Easy Free",
+            "link": "https://community.chocolatey.org/packages/drivereasyfree",
+            "downloads": "2130"
+        }
+    ],
+    "lastpass-chrome": [
+        {
+            "name": "LastPass: Free Password Manager for Chrome",
+            "link": "https://community.chocolatey.org/packages/lastpass-chrome",
+            "downloads": "16933"
+        }
+    ],
+    "moneydance": [
+        {
+            "name": "Moneydance",
+            "link": "https://community.chocolatey.org/packages/moneydance",
+            "downloads": "948"
+        }
+    ],
+    "driverfusion": [
+        {
+            "name": "Driver Fusion",
+            "link": "https://community.chocolatey.org/packages/driverfusion",
+            "downloads": "8484"
+        }
+    ],
+    "moboplay": [
+        {
+            "name": "MoboPlay (Install)",
+            "link": "https://community.chocolatey.org/packages/moboplay",
+            "downloads": "1333"
+        }
+    ],
+    "mipony": [
+        {
+            "name": "Mipony",
+            "link": "https://community.chocolatey.org/packages/mipony",
+            "downloads": "4767"
+        }
+    ],
+    "playnite": [
+        {
+            "name": "Playnite",
+            "link": "https://community.chocolatey.org/packages/playnite",
+            "downloads": "21927"
+        }
+    ],
+    "keeweb": [
+        {
+            "name": "KeeWeb",
+            "link": "https://community.chocolatey.org/packages/keeweb",
+            "downloads": "21309"
+        }
+    ],
+    "git": [
+        {
+            "name": "Git",
+            "link": "https://community.chocolatey.org/packages/git",
+            "downloads": "6297817"
+        },
+        {
+            "name": "Git (Portable)",
+            "link": "https://community.chocolatey.org/packages/git.portable",
+            "extension": "portable",
+            "downloads": "111751"
+        },
+        {
+            "name": "Git (Install)",
+            "link": "https://community.chocolatey.org/packages/git.install",
+            "extension": "install",
+            "downloads": "8320735"
+        }
+    ],
+    "git-helper": [
+        {
+            "name": "Git-helper",
+            "link": "https://community.chocolatey.org/packages/git-helper",
+            "downloads": "1959"
+        }
+    ],
+    "ethanbrown": [
+        {
+            "name": "Git - Aliases",
+            "link": "https://community.chocolatey.org/packages/EthanBrown.GitAliases",
+            "extension": "gitaliases",
+            "downloads": "3460"
+        },
+        {
+            "name": "Git - Development Configuration",
+            "link": "https://community.chocolatey.org/packages/EthanBrown.GitConfiguration",
+            "extension": "gitconfiguration",
+            "downloads": "3095"
+        },
+        {
+            "name": "GitExtensions - Configuration",
+            "link": "https://community.chocolatey.org/packages/EthanBrown.GitExtensionsConfiguration",
+            "extension": "gitextensionsconfiguration",
+            "downloads": "1717"
+        }
+    ],
+    "git-tf": [
+        {
+            "name": "Git-TF",
+            "link": "https://community.chocolatey.org/packages/Git-TF",
+            "downloads": "27111"
+        }
+    ],
+    "git-it": [
+        {
+            "name": "Git-it",
+            "link": "https://community.chocolatey.org/packages/git-it",
+            "downloads": "641"
+        }
+    ],
+    "git-lfx": [
+        {
+            "name": "git curl extension",
+            "link": "https://community.chocolatey.org/packages/git-lfx",
+            "downloads": "954"
+        }
+    ],
+    "git-interactive-rebase-tool": [
+        {
+            "name": "git-interactive-rebase-tool (Install)",
+            "link": "https://community.chocolatey.org/packages/git-interactive-rebase-tool",
+            "downloads": "373"
+        }
+    ],
+    "git-cola": [
+        {
+            "name": "Git Cola",
+            "link": "https://community.chocolatey.org/packages/git-cola",
+            "downloads": "3298"
+        }
+    ],
+    "git-sizer": [
+        {
+            "name": "git-sizer",
+            "link": "https://community.chocolatey.org/packages/git-sizer",
+            "downloads": "1752"
+        }
+    ],
+    "git-annex": [
+        {
+            "name": "git-annex",
+            "link": "https://community.chocolatey.org/packages/git-annex",
+            "downloads": "14145"
+        }
+    ],
+    "timrayburn": [
+        {
+            "name": "Tim Rayburn's GIT Aliases",
+            "link": "https://community.chocolatey.org/packages/TimRayburn.GitAliases",
+            "extension": "gitaliases",
+            "downloads": "4784"
+        }
+    ],
+    "posh-ci-git": [
+        {
+            "name": "Posh-CI-Git",
+            "link": "https://community.chocolatey.org/packages/posh-ci-git",
+            "downloads": "971"
+        }
+    ],
+    "git-credential-winstore": [
+        {
+            "name": "[Deprecated] git-credential-winstore",
+            "link": "https://community.chocolatey.org/packages/git-credential-winstore",
+            "downloads": "31814"
+        }
+    ],
+    "github-build-from-label": [
+        {
+            "name": "Github-build-from-label",
+            "link": "https://community.chocolatey.org/packages/github-build-from-label",
+            "downloads": "1154"
+        }
+    ],
+    "jivkok": [
+        {
+            "name": "Git - Config",
+            "link": "https://community.chocolatey.org/packages/jivkok.GitConfig",
+            "extension": "gitconfig",
+            "downloads": "3263"
+        }
+    ],
+    "bonobo-git-server": [
+        {
+            "name": "Bonobo Git Server",
+            "link": "https://community.chocolatey.org/packages/bonobo-git-server",
+            "downloads": "337"
+        }
+    ],
+    "gitpad": [
+        {
+            "name": "GitPad",
+            "link": "https://community.chocolatey.org/packages/gitpad",
+            "downloads": "1573"
+        }
+    ],
+    "gitlink": [
+        {
+            "name": "GitLink",
+            "link": "https://community.chocolatey.org/packages/gitlink/3.0.0",
+            "downloads": "36684"
+        }
+    ],
+    "git-credential-manager-for-windows": [
+        {
+            "name": "Git Credential Manager for Windows",
+            "link": "https://community.chocolatey.org/packages/Git-Credential-Manager-for-Windows",
+            "downloads": "221187"
+        }
+    ],
+    "posh-git-hg": [
+        {
+            "name": "Posh-GIT-HG",
+            "link": "https://community.chocolatey.org/packages/Posh-GIT-HG",
+            "downloads": "4268"
+        }
+    ],
+    "git-lfs": [
+        {
+            "name": "Git Large File Storage",
+            "link": "https://community.chocolatey.org/packages/git-lfs",
+            "downloads": "422825"
+        }
+    ],
+    "git-flow-hooks": [
+        {
+            "name": "git-flow hooks",
+            "link": "https://community.chocolatey.org/packages/git-flow-hooks",
+            "downloads": "2263"
+        }
+    ],
+    "devbox-git": [
+        {
+            "name": "Devbox Git",
+            "link": "https://community.chocolatey.org/packages/Devbox-Git",
+            "downloads": "1384"
+        }
+    ],
+    "ungit": [
+        {
+            "name": "ungit",
+            "link": "https://community.chocolatey.org/packages/ungit",
+            "downloads": "2703"
+        }
+    ],
+    "git-status-cache-posh-client": [
+        {
+            "name": "git-status-cache-posh-client",
+            "link": "https://community.chocolatey.org/packages/git-status-cache-posh-client",
+            "downloads": "818"
+        }
+    ],
+    "gitkraken": [
+        {
+            "name": "GitKraken",
+            "link": "https://community.chocolatey.org/packages/gitkraken",
+            "downloads": "68978"
+        }
+    ],
+    "googlechrome": [
+        {
+            "name": "Google Chrome",
+            "link": "https://community.chocolatey.org/packages/GoogleChrome",
+            "downloads": "60894266"
+        },
+        {
+            "name": "Google Chrome Canary",
+            "link": "https://community.chocolatey.org/packages/GoogleChrome.Canary",
+            "extension": "canary",
+            "downloads": "32420"
+        },
+        {
+            "name": "Google Chrome Dev Web Browser",
+            "link": "https://community.chocolatey.org/packages/GoogleChrome.Dev",
+            "extension": "dev",
+            "downloads": "6388"
+        }
+    ],
+    "google-hangouts-chrome": [
+        {
+            "name": "Google Hangouts for Chrome",
+            "link": "https://community.chocolatey.org/packages/google-hangouts-chrome",
+            "downloads": "3430"
+        }
+    ],
+    "google-translate-chrome": [
+        {
+            "name": "Google Translate for Chrome",
+            "link": "https://community.chocolatey.org/packages/google-translate-chrome",
+            "downloads": "1410"
+        }
+    ],
+    "google-chrome-for-enterprise": [
+        {
+            "name": "Google Chrome for Enterprise",
+            "link": "https://community.chocolatey.org/packages/google-chrome-for-enterprise",
+            "downloads": "228613"
+        }
+    ],
+    "google-voice-chrome": [
+        {
+            "name": "Google Voice (by Google) for Chrome",
+            "link": "https://community.chocolatey.org/packages/google-voice-chrome",
+            "downloads": "1244"
+        }
+    ],
+    "google-dictionary-chrome": [
+        {
+            "name": "Google Dictionary (by Google) for Chrome",
+            "link": "https://community.chocolatey.org/packages/google-dictionary-chrome",
+            "downloads": "732"
+        }
+    ],
+    "google-calendar-chrome": [
+        {
+            "name": "Google Calendar (by Google) for Chrome",
+            "link": "https://community.chocolatey.org/packages/google-calendar-chrome",
+            "downloads": "1500"
+        }
+    ],
+    "save-to-google-drive-chrome": [
+        {
+            "name": "Save to Google Drive for Chrome",
+            "link": "https://community.chocolatey.org/packages/save-to-google-drive-chrome",
+            "downloads": "714"
+        }
+    ],
+    "google-cast-chrome": [
+        {
+            "name": "Google Cast for Chrome",
+            "link": "https://community.chocolatey.org/packages/google-cast-chrome",
+            "downloads": "1240"
+        }
+    ],
+    "keep-chrome": [
+        {
+            "name": "Google Keep Chrome Extension",
+            "link": "https://community.chocolatey.org/packages/keep-chrome",
+            "downloads": "970"
+        }
+    ],
+    "earthview-chrome": [
+        {
+            "name": "Earth View from Google Earth for Chrome",
+            "link": "https://community.chocolatey.org/packages/earthview-chrome",
+            "downloads": "804"
+        }
+    ],
+    "data-saver-chrome": [
+        {
+            "name": "Data Saver for Chrome",
+            "link": "https://community.chocolatey.org/packages/data-saver-chrome",
+            "downloads": "643"
+        }
+    ],
+    "myjdownloader-chrome": [
+        {
+            "name": "MyJDownloader for Google Chrome",
+            "link": "https://community.chocolatey.org/packages/myjdownloader-chrome",
+            "downloads": "65"
+        }
+    ],
+    "bitwarden-chrome": [
+        {
+            "name": "Bitwarden for Google Chrome",
+            "link": "https://community.chocolatey.org/packages/bitwarden-chrome",
+            "downloads": "1010"
+        }
+    ],
+    "chrome-remote-desktop-chrome": [
+        {
+            "name": "Chrome Remote Desktop for Chrome",
+            "link": "https://community.chocolatey.org/packages/chrome-remote-desktop-chrome",
+            "downloads": "11784"
+        }
+    ],
+    "google-chrome-x64": [
+        {
+            "name": "Google Chrome (64-bit only) [deprecated]",
+            "link": "https://community.chocolatey.org/packages/google-chrome-x64",
+            "downloads": "264305"
+        }
+    ],
+    "ebay-chrome": [
+        {
+            "name": "eBay for Chrome",
+            "link": "https://community.chocolatey.org/packages/ebay-chrome",
+            "downloads": "1064"
+        }
+    ],
+    "googlechrome-allusers": [
+        {
+            "name": "Google Chrome- All Users",
+            "link": "https://community.chocolatey.org/packages/GoogleChrome-AllUsers",
+            "downloads": "180204"
+        }
+    ],
+    "search-by-image-chrome": [
+        {
+            "name": "Search by Image (by Google) for Chrome",
+            "link": "https://community.chocolatey.org/packages/search-by-image-chrome",
+            "downloads": "680"
+        }
+    ],
+    "open-screenshot-chrome": [
+        {
+            "name": "Open Screenshot for Chrome",
+            "link": "https://community.chocolatey.org/packages/open-screenshot-chrome",
+            "downloads": "656"
+        }
+    ],
+    "reveye-chrome": [
+        {
+            "name": "RevEye Reverse Image Search for Chrome",
+            "link": "https://community.chocolatey.org/packages/reveye-chrome",
+            "downloads": "708"
+        }
+    ],
+    "toby-chrome": [
+        {
+            "name": "Toby for Chrome",
+            "link": "https://community.chocolatey.org/packages/toby-chrome",
+            "downloads": "510"
+        }
+    ],
+    "speedtest-chrome": [
+        {
+            "name": "Speedtest by Ookla for Chrome",
+            "link": "https://community.chocolatey.org/packages/speedtest-chrome",
+            "downloads": "1589"
+        }
+    ],
+    "gsuite-training-chrome": [
+        {
+            "name": "G Suite Training for Chrome",
+            "link": "https://community.chocolatey.org/packages/gsuite-training-chrome",
+            "downloads": "1225"
+        }
+    ],
+    "chromelpass-chrome": [
+        {
+            "name": "chromeIPass for Chrome",
+            "link": "https://community.chocolatey.org/packages/chromelpass-chrome",
+            "downloads": "1862"
+        }
+    ],
+    "google-voice-desktop": [
+        {
+            "name": "Google Voice Desktop (Install)",
+            "link": "https://community.chocolatey.org/packages/google-voice-desktop",
+            "downloads": "150"
+        }
+    ],
+    "googlechrome-authy": [
+        {
+            "name": "Authy Google Chrome Extension",
+            "link": "https://community.chocolatey.org/packages/googlechrome-authy",
+            "downloads": "1218"
+        }
+    ],
+    "addtoany-chrome": [
+        {
+            "name": "AddToAny: Share Anywhere for Chrome",
+            "link": "https://community.chocolatey.org/packages/addtoany-chrome",
+            "downloads": "906"
+        }
+    ],
+    "googledrive": [
+        {
+            "name": "Google Drive",
+            "link": "https://community.chocolatey.org/packages/googledrive",
+            "downloads": "237166"
+        }
+    ],
+    "google-drive-file-stream": [
+        {
+            "name": "Google Drive for desktop (formerly File Stream)",
+            "link": "https://community.chocolatey.org/packages/google-drive-file-stream",
+            "downloads": "12127012"
+        }
+    ],
+    "google-backup-and-sync": [
+        {
+            "name": "Google Backup and Sync (Install)",
+            "link": "https://community.chocolatey.org/packages/google-backup-and-sync",
+            "downloads": "155429"
+        }
+    ],
+    "insync": [
+        {
+            "name": "Insync",
+            "link": "https://community.chocolatey.org/packages/InSync",
+            "downloads": "7084"
+        }
+    ],
+    "raidrive": [
+        {
+            "name": "RaiDrive",
+            "link": "https://community.chocolatey.org/packages/raidrive",
+            "downloads": "29650"
+        }
+    ],
+    "netdrive": [
+        {
+            "name": "NetDrive (Install)",
+            "link": "https://community.chocolatey.org/packages/netdrive",
+            "downloads": "4659"
+        }
+    ],
+    "cloudberryexplorer": [
+        {
+            "name": "CloudBerry Explorer for Google Storage",
+            "link": "https://community.chocolatey.org/packages/CloudBerryExplorer.GoogleStorage",
+            "extension": "googlestorage",
+            "downloads": "2759"
+        }
+    ],
+    "smartftp": [
+        {
+            "name": "SmartFTP",
+            "link": "https://community.chocolatey.org/packages/smartftp",
+            "downloads": "138151"
+        }
+    ],
+    "boxcryptor": [
+        {
+            "name": "Boxcryptor",
+            "link": "https://community.chocolatey.org/packages/boxcryptor",
+            "downloads": "24114"
+        }
+    ],
+    "mountainduck": [
+        {
+            "name": "Mountain Duck",
+            "link": "https://community.chocolatey.org/packages/mountainduck",
+            "downloads": "2279"
+        }
+    ],
+    "cyberduck": [
+        {
+            "name": "Cyberduck",
+            "link": "https://community.chocolatey.org/packages/cyberduck",
+            "downloads": "204016"
+        }
+    ],
+    "duck": [
+        {
+            "name": "Cyberduck CLI",
+            "link": "https://community.chocolatey.org/packages/duck",
+            "downloads": "30770"
+        }
+    ],
+    "tcp-cloud": [
+        {
+            "name": "TC Plugin: Cloud",
+            "link": "https://community.chocolatey.org/packages/tcp-cloud",
+            "downloads": "1498"
+        }
+    ],
+    "keepass-plugin-keeanywhere": [
+        {
+            "name": "KeePass Plugin KeeAnywhere",
+            "link": "https://community.chocolatey.org/packages/keepass-plugin-keeanywhere",
+            "downloads": "11434"
+        }
+    ],
+    "portx": [
+        {
+            "name": "PortX",
+            "link": "https://community.chocolatey.org/packages/portx",
+            "downloads": "362"
+        }
+    ],
+    "cryptomator": [
+        {
+            "name": "Cryptomator",
+            "link": "https://community.chocolatey.org/packages/cryptomator",
+            "downloads": "50757"
+        }
+    ],
+    "duplicati": [
+        {
+            "name": "Duplicati (Install)",
+            "link": "https://community.chocolatey.org/packages/duplicati/2.0.5.1",
+            "downloads": "18273"
+        }
+    ],
+    "choco-package-list-backup": [
+        {
+            "name": "(unofficial) Choco Package List Backup to Local and Cloud (Script + Task)",
+            "link": "https://community.chocolatey.org/packages/choco-package-list-backup",
+            "downloads": "50312"
+        }
+    ],
+    "snagit-2020": [
+        {
+            "name": "Snagit 2020 (Install)",
+            "link": "https://community.chocolatey.org/packages/snagit-2020",
+            "downloads": "58"
+        }
+    ],
+    "snagit": [
+        {
+            "name": "Snagit (Install)",
+            "link": "https://community.chocolatey.org/packages/snagit",
+            "downloads": "81783"
+        }
+    ],
+    "duplicacy": [
+        {
+            "name": "duplicacy",
+            "link": "https://community.chocolatey.org/packages/duplicacy",
+            "downloads": "1199"
+        }
+    ],
+    "kubernetes-cli": [
+        {
+            "name": "Kubernetes Command Line Interface (CLI)",
+            "link": "https://community.chocolatey.org/packages/kubernetes-cli",
+            "downloads": "641710"
+        }
+    ],
+    "libreoffice-help": [
+        {
+            "name": "LibreOffice Help Pack",
+            "link": "https://community.chocolatey.org/packages/libreoffice-help",
+            "downloads": "104130"
+        }
+    ],
+    "libreoffice-still": [
+        {
+            "name": "LibreOffice Still",
+            "link": "https://community.chocolatey.org/packages/libreoffice-still",
+            "downloads": "364267"
+        }
+    ],
+    "libreoffice-fresh": [
+        {
+            "name": "LibreOffice Fresh",
+            "link": "https://community.chocolatey.org/packages/libreoffice-fresh",
+            "downloads": "2460115"
+        }
+    ],
+    "libreoffice": [
+        {
+            "name": "[Deprecated] LibreOffice Fresh",
+            "link": "https://community.chocolatey.org/packages/libreoffice",
+            "downloads": "759700"
+        }
+    ],
+    "libreoffice-oldstable": [
+        {
+            "name": "[Deprecated] LibreOffice Still",
+            "link": "https://community.chocolatey.org/packages/libreoffice-oldstable",
+            "downloads": "37607"
+        }
+    ],
+    "crosextrafonts-caladea-font": [
+        {
+            "name": "Croscore Extra Fonts - Caladea (Install)",
+            "link": "https://community.chocolatey.org/packages/crosextrafonts-caladea-font",
+            "downloads": "686"
+        }
+    ],
+    "sigil": [
+        {
+            "name": "Sigil",
+            "link": "https://community.chocolatey.org/packages/Sigil",
+            "downloads": "10650"
+        }
+    ],
+    "visualstudio2017enterprise": [
+        {
+            "name": "Visual Studio 2017 Enterprise",
+            "link": "https://community.chocolatey.org/packages/visualstudio2017enterprise",
+            "downloads": "451471"
+        }
+    ],
+    "visualstudioexpress2012web": [
+        {
+            "name": "Visual Studio Express 2012 for Web",
+            "link": "https://community.chocolatey.org/packages/VisualStudioExpress2012Web",
+            "downloads": "2954"
+        }
+    ],
+    "visualstudioexpress2012tfs": [
+        {
+            "name": "Visual Studio Express 2012 Team Foundation Server (TFS)",
+            "link": "https://community.chocolatey.org/packages/VisualStudioExpress2012TFS",
+            "downloads": "1220"
+        }
+    ],
+    "visualstudio2015enterprise": [
+        {
+            "name": "Visual Studio 2015 Enterprise Update 3",
+            "link": "https://community.chocolatey.org/packages/VisualStudio2015Enterprise",
+            "downloads": "22285"
+        }
+    ],
+    "kb3033929": [
+        {
+            "name": "Microsoft security advisory: Availability of SHA-2 code signing support for Windows 7 and Windows Server 2008 R2: March 10, 2015",
+            "link": "https://community.chocolatey.org/packages/KB3033929",
+            "downloads": "12190512"
+        }
+    ],
+    "visualstudio2015-powershelltools": [
+        {
+            "name": "PowerShell Tools for Visual Studio 2015",
+            "link": "https://community.chocolatey.org/packages/visualstudio2015-powershelltools",
+            "downloads": "940"
+        }
+    ],
+    "vscode-mssql": [
+        {
+            "name": "Visual Studio Code Microsoft SQL Server Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-mssql",
+            "downloads": "8426"
+        }
+    ],
+    "vscode": [
+        {
+            "name": "Visual Studio Code",
+            "link": "https://community.chocolatey.org/packages/vscode",
+            "downloads": "2949233"
+        },
+        {
+            "name": "Visual Studio Code (Portable)",
+            "link": "https://community.chocolatey.org/packages/vscode.portable",
+            "extension": "portable",
+            "downloads": "20153"
+        },
+        {
+            "name": "Visual Studio Code (Install)",
+            "link": "https://community.chocolatey.org/packages/vscode.install",
+            "extension": "install",
+            "downloads": "2116245"
+        }
+    ],
+    "vscode-powershell": [
+        {
+            "name": "Visual Studio Code PowerShell Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-powershell",
+            "downloads": "101210"
+        }
+    ],
+    "vscode-csharp": [
+        {
+            "name": "Visual Studio Code C# Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-csharp",
+            "downloads": "62908"
+        }
+    ],
+    "vscode-docker": [
+        {
+            "name": "Visual Studio Code Docker Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-docker",
+            "downloads": "11299"
+        }
+    ],
+    "vscode-markdownlint": [
+        {
+            "name": "Visual Studio Code Markdownlint Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-markdownlint",
+            "downloads": "4169"
+        }
+    ],
+    "vscode-cake": [
+        {
+            "name": "Visual Studio Code Cake Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-cake",
+            "downloads": "2017"
+        }
+    ],
+    "vscode-eslint": [
+        {
+            "name": "Visual Studio Code ESLint Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-eslint",
+            "downloads": "2911"
+        }
+    ],
+    "vscode-editorconfig": [
+        {
+            "name": "Visual Studio Code EditorConfig Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-editorconfig",
+            "downloads": "3317"
+        }
+    ],
+    "vscode-autohotkey": [
+        {
+            "name": "Visual Studio Code AutoHotkey Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-autohotkey",
+            "downloads": "1305"
+        }
+    ],
+    "vscode-autofilename": [
+        {
+            "name": "Visual Studio Code AutoFileName Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-autofilename",
+            "downloads": "1868"
+        }
+    ],
+    "vs2012sdk": [
+        {
+            "name": "Visual Studio 2012 SDK",
+            "link": "https://community.chocolatey.org/packages/VS2012SDK",
+            "downloads": "1642"
+        }
+    ],
+    "vs2013sdk": [
+        {
+            "name": "Visual Studio 2013 SDK",
+            "link": "https://community.chocolatey.org/packages/VS2013SDK",
+            "downloads": "1695"
+        }
+    ],
+    "vscode-codespellchecker-german": [
+        {
+            "name": "Visual Studio Code German Code Spell Checker Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-codespellchecker-german",
+            "downloads": "735"
+        }
+    ],
+    "vscode-codespellchecker": [
+        {
+            "name": "Visual Studio Code Code Spell Checker Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-codespellchecker",
+            "downloads": "1862"
+        }
+    ],
+    "vscode-insiders": [
+        {
+            "name": "Visual Studio Code Insiders (Install)",
+            "link": "https://community.chocolatey.org/packages/vscode-insiders.install",
+            "extension": "install",
+            "downloads": "32914"
+        }
+    ],
+    "vscode-tslint": [
+        {
+            "name": "Visual Studio Code TSLint Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-tslint",
+            "downloads": "3436"
+        }
+    ],
+    "vscode-jshint": [
+        {
+            "name": "Visual Studio Code JSHint Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-jshint",
+            "downloads": "1873"
+        }
+    ],
+    "vscode-icons": [
+        {
+            "name": "Visual Studio Code Icons Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-icons",
+            "downloads": "41883"
+        }
+    ],
+    "vscode-vsonline": [
+        {
+            "name": "Visual Studio Codespaces VSCode Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-vsonline",
+            "downloads": "3384"
+        }
+    ],
+    "vscode-jupyter": [
+        {
+            "name": "Visual Studio Jupyter VSCode Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-jupyter",
+            "downloads": "17702"
+        }
+    ],
+    "firefox": [
+        {
+            "name": "Mozilla Firefox",
+            "link": "https://community.chocolatey.org/packages/Firefox",
+            "downloads": "26682936"
+        }
+    ],
+    "firefoxesr": [
+        {
+            "name": "Mozilla Firefox",
+            "link": "https://community.chocolatey.org/packages/FirefoxESR",
+            "downloads": "1496535"
+        }
+    ],
+    "mozilla-vpn": [
+        {
+            "name": "mozilla-vpn (Install)",
+            "link": "https://community.chocolatey.org/packages/mozilla-vpn",
+            "downloads": "460"
+        }
+    ],
+    "jsshell": [
+        {
+            "name": "Mozilla JS Shell",
+            "link": "https://community.chocolatey.org/packages/jsshell",
+            "downloads": "87"
+        }
+    ],
+    "mozillahistoryview": [
+        {
+            "name": "MozillaHistoryView",
+            "link": "https://community.chocolatey.org/packages/mozillahistoryview",
+            "downloads": "1713"
+        }
+    ],
+    "light": [
+        {
+            "name": "Light",
+            "link": "https://community.chocolatey.org/packages/light",
+            "downloads": "5113"
+        }
+    ],
+    "mzcv": [
+        {
+            "name": "MozillaCookiesView",
+            "link": "https://community.chocolatey.org/packages/mzcv",
+            "downloads": "1924"
+        }
+    ],
+    "thunderbird": [
+        {
+            "name": "Mozilla Thunderbird",
+            "link": "https://community.chocolatey.org/packages/thunderbird",
+            "downloads": "1877904"
+        }
+    ],
+    "librefox-firefox": [
+        {
+            "name": "Librefox Firefox",
+            "link": "https://community.chocolatey.org/packages/librefox-firefox",
+            "downloads": "682"
+        }
+    ],
+    "redfox": [
+        {
+            "name": "Redfox",
+            "link": "https://community.chocolatey.org/packages/redfox",
+            "downloads": "657"
+        }
+    ],
+    "mozbackup": [
+        {
+            "name": "MozBackup",
+            "link": "https://community.chocolatey.org/packages/mozbackup",
+            "downloads": "12123"
+        }
+    ],
+    "firessh": [
+        {
+            "name": "FireSSH Addons for Firefox",
+            "link": "https://community.chocolatey.org/packages/firessh",
+            "downloads": "889"
+        }
+    ],
+    "cyberfox": [
+        {
+            "name": "Cyberfox",
+            "link": "https://community.chocolatey.org/packages/cyberfox",
+            "downloads": "48353"
+        }
+    ],
+    "passwordfox": [
+        {
+            "name": "PasswordFox",
+            "link": "https://community.chocolatey.org/packages/passwordfox",
+            "downloads": "903"
+        }
+    ],
+    "firefoxpwa": [
+        {
+            "name": "Progressive Web Apps for Firefox",
+            "link": "https://community.chocolatey.org/packages/firefoxpwa",
+            "downloads": "655"
+        }
+    ],
+    "librewolf": [
+        {
+            "name": "LibreWolf",
+            "link": "https://community.chocolatey.org/packages/librewolf",
+            "downloads": "19149"
+        }
+    ],
+    "palemoon": [
+        {
+            "name": "Pale Moon browser",
+            "link": "https://community.chocolatey.org/packages/palemoon",
+            "downloads": "48050"
+        }
+    ],
+    "cpfox": [
+        {
+            "name": "CryptoPro Fox (Install)",
+            "link": "https://community.chocolatey.org/packages/cpfox",
+            "downloads": "786"
+        }
+    ],
+    "webbrowserpassview": [
+        {
+            "name": "WebBrowserPassView",
+            "link": "https://community.chocolatey.org/packages/webbrowserpassview",
+            "downloads": "2655"
+        },
+        {
+            "name": "WebBrowserPassView (Install)",
+            "link": "https://community.chocolatey.org/packages/webbrowserpassview.install",
+            "extension": "install",
+            "downloads": "3542"
+        },
+        {
+            "name": "WebBrowserPassView (Portable)",
+            "link": "https://community.chocolatey.org/packages/webbrowserpassview.portable",
+            "extension": "portable",
+            "downloads": "3088"
+        }
+    ],
+    "browsinghistoryview": [
+        {
+            "name": "BrowsingHistoryView",
+            "link": "https://community.chocolatey.org/packages/browsinghistoryview",
+            "downloads": "6534"
+        }
+    ],
+    "waterfox-classic": [
+        {
+            "name": "Waterfox classic",
+            "link": "https://community.chocolatey.org/packages/waterfox-classic",
+            "downloads": "3251"
+        }
+    ],
+    "waterfox": [
+        {
+            "name": "Waterfox",
+            "link": "https://community.chocolatey.org/packages/waterfox",
+            "downloads": "50036"
+        }
+    ],
+    "keepass-plugin-keepasshttp": [
+        {
+            "name": "KeePass Plugin KeePassHttp",
+            "link": "https://community.chocolatey.org/packages/keepass-plugin-keepasshttp",
+            "downloads": "9177"
+        }
+    ],
+    "hunspell": [
+        {
+            "name": "Hunspell (Portable)",
+            "link": "https://community.chocolatey.org/packages/hunspell.portable",
+            "extension": "portable",
+            "downloads": "4816"
+        }
+    ],
+    "keepass-keepasshttp": [
+        {
+            "name": "KeePassHttp",
+            "link": "https://community.chocolatey.org/packages/keepass-keepasshttp",
+            "downloads": "139914"
+        }
+    ],
+    "keepassxc": [
+        {
+            "name": "KeePassXC",
+            "link": "https://community.chocolatey.org/packages/keepassxc",
+            "downloads": "172246"
+        }
+    ],
+    "xdm": [
+        {
+            "name": "Xtreme Download Manager",
+            "link": "https://community.chocolatey.org/packages/xdm",
+            "downloads": "2812"
+        }
+    ],
+    "musicbee": [
+        {
+            "name": "MusicBee",
+            "link": "https://community.chocolatey.org/packages/musicbee",
+            "downloads": "47046"
+        }
+    ],
+    "nodejs": [
+        {
+            "name": "[DEPRECATED] Node JS (Portable, CommandLine)",
+            "link": "https://community.chocolatey.org/packages/nodejs.commandline",
+            "extension": "commandline",
+            "downloads": "108662"
+        },
+        {
+            "name": "Node JS (Install)",
+            "link": "https://community.chocolatey.org/packages/nodejs.install",
+            "extension": "install",
+            "downloads": "5112368"
+        }
+    ],
+    "nvs": [
+        {
+            "name": "NVS",
+            "link": "https://community.chocolatey.org/packages/nvs",
+            "downloads": "24866"
+        }
+    ],
+    "nodejs-lts": [
+        {
+            "name": "Node.js LTS (Install)",
+            "link": "https://community.chocolatey.org/packages/nodejs-lts",
+            "downloads": "1237843"
+        }
+    ],
+    "fnm": [
+        {
+            "name": "Fast and simple Node.js version manager, built in Rust",
+            "link": "https://community.chocolatey.org/packages/fnm",
+            "downloads": "784"
+        }
+    ],
+    "markdownlint-cli": [
+        {
+            "name": "MarkdownLint Command Line Interface",
+            "link": "https://community.chocolatey.org/packages/markdownlint-cli",
+            "downloads": "6147"
+        }
+    ],
+    "gulp-cli": [
+        {
+            "name": "Command line interface for gulp",
+            "link": "https://community.chocolatey.org/packages/gulp-cli",
+            "downloads": "14413"
+        }
+    ],
+    "jhipster": [
+        {
+            "name": "JHipster",
+            "link": "https://community.chocolatey.org/packages/jhipster",
+            "downloads": "9196"
+        }
+    ],
+    "meteor": [
+        {
+            "name": "Meteor",
+            "link": "https://community.chocolatey.org/packages/meteor",
+            "downloads": "188219"
+        }
+    ],
+    "bower": [
+        {
+            "name": "Bower",
+            "link": "https://community.chocolatey.org/packages/bower",
+            "downloads": "15069"
+        }
+    ],
+    "nodist": [
+        {
+            "name": "nodist - Natural Node.js version management for Windows",
+            "link": "https://community.chocolatey.org/packages/nodist",
+            "downloads": "33556"
+        }
+    ],
+    "nvm": [
+        {
+            "name": "NVM (Portable)",
+            "link": "https://community.chocolatey.org/packages/nvm.portable",
+            "extension": "portable",
+            "downloads": "205686"
+        }
+    ],
+    "yarn": [
+        {
+            "name": "Yarn (Install)",
+            "link": "https://community.chocolatey.org/packages/yarn",
+            "downloads": "1167945"
+        }
+    ],
+    "mstream": [
+        {
+            "name": "mstream",
+            "link": "https://community.chocolatey.org/packages/mstream",
+            "downloads": "1520"
+        },
+        {
+            "name": "mstream (Install)",
+            "link": "https://community.chocolatey.org/packages/mstream.install",
+            "extension": "install",
+            "downloads": "1689"
+        }
+    ],
+    "reactos-notepad": [
+        {
+            "name": "ReactOS Notepad",
+            "link": "https://community.chocolatey.org/packages/reactos-notepad",
+            "downloads": "108"
+        }
+    ],
+    "xml-notepad": [
+        {
+            "name": "XML Notepad",
+            "link": "https://community.chocolatey.org/packages/xml-notepad",
+            "downloads": "9514"
+        }
+    ],
+    "crypto-notepad": [
+        {
+            "name": "Crypto Notepad",
+            "link": "https://community.chocolatey.org/packages/crypto-notepad",
+            "downloads": "986"
+        }
+    ],
+    "notepadreplacer": [
+        {
+            "name": "Notepad Replacer",
+            "link": "https://community.chocolatey.org/packages/notepadreplacer",
+            "downloads": "24276"
+        }
+    ],
+    "programmersnotepad": [
+        {
+            "name": "Programmer's Notepad",
+            "link": "https://community.chocolatey.org/packages/ProgrammersNotepad",
+            "downloads": "4186"
+        },
+        {
+            "name": "Programmer's Notepad",
+            "link": "https://community.chocolatey.org/packages/programmersnotepad.install",
+            "extension": "install",
+            "downloads": "1469"
+        }
+    ],
+    "notepad2": [
+        {
+            "name": "Notepad2",
+            "link": "https://community.chocolatey.org/packages/notepad2",
+            "downloads": "53830"
+        }
+    ],
+    "notepad2-mod": [
+        {
+            "name": "Notepad2-mod",
+            "link": "https://community.chocolatey.org/packages/notepad2-mod",
+            "downloads": "42203"
+        }
+    ],
+    "notepadplusplus": [
+        {
+            "name": "Notepad++ Settings Installation",
+            "link": "https://community.chocolatey.org/packages/Notepadplusplus.Settings",
+            "extension": "settings",
+            "downloads": "10205"
+        },
+        {
+            "name": "Notepad++ (Portable, CommandLine)",
+            "link": "https://community.chocolatey.org/packages/notepadplusplus.commandline",
+            "extension": "commandline",
+            "downloads": "83156"
+        },
+        {
+            "name": "Notepad++ (Install)",
+            "link": "https://community.chocolatey.org/packages/notepadplusplus.install",
+            "extension": "install",
+            "downloads": "11682215"
+        },
+        {
+            "name": "Notepad++ (Portable, CommandLine)",
+            "link": "https://community.chocolatey.org/packages/notepadplusplus.commandline",
+            "extension": "commandline",
+            "downloads": "83157"
+        },
+        {
+            "name": "Notepad++ (Install)",
+            "link": "https://community.chocolatey.org/packages/notepadplusplus.install",
+            "extension": "install",
+            "downloads": "11682262"
+        }
+    ],
+    "xmlnotepad": [
+        {
+            "name": "[Deprecated] XML Notepad 2007",
+            "link": "https://community.chocolatey.org/packages/XmlNotepad",
+            "downloads": "12218"
+        }
+    ],
+    "devbox-notepad2": [
+        {
+            "name": "Devbox Notepad2",
+            "link": "https://community.chocolatey.org/packages/Devbox-Notepad2",
+            "downloads": "24283"
+        }
+    ],
+    "notepad3": [
+        {
+            "name": "Notepad3 (install)",
+            "link": "https://community.chocolatey.org/packages/notepad3.install",
+            "extension": "install",
+            "downloads": "50177"
+        }
+    ],
+    "notepadplusplus-plugin": [
+        {
+            "name": "NotepadPlusPlus-Plugin Template",
+            "link": "https://community.chocolatey.org/packages/notepadplusplus-plugin.template",
+            "extension": "template",
+            "downloads": "220"
+        }
+    ],
+    "lite-xl": [
+        {
+            "name": "Lite XL",
+            "link": "https://community.chocolatey.org/packages/lite-xl",
+            "downloads": "171"
+        }
+    ],
+    "zim": [
+        {
+            "name": "Zim Desktop Wiki",
+            "link": "https://community.chocolatey.org/packages/zim",
+            "downloads": "6954"
+        }
+    ],
+    "akelpad": [
+        {
+            "name": "AkelPad Editor",
+            "link": "https://community.chocolatey.org/packages/akelpad",
+            "downloads": "3794"
+        }
+    ],
+    "devbox-p4merge": [
+        {
+            "name": "Devbox P4Merge",
+            "link": "https://community.chocolatey.org/packages/Devbox-P4Merge",
+            "downloads": "1451"
+        }
+    ],
+    "babelpad": [
+        {
+            "name": "BabelPad",
+            "link": "https://community.chocolatey.org/packages/babelpad",
+            "downloads": "2759"
+        }
+    ],
+    "getdiz": [
+        {
+            "name": "GetDiz",
+            "link": "https://community.chocolatey.org/packages/getdiz",
+            "downloads": "723"
+        }
+    ],
+    "bowpad": [
+        {
+            "name": "BowPad",
+            "link": "https://community.chocolatey.org/packages/bowpad",
+            "downloads": "18976"
+        }
+    ],
+    "code-notes": [
+        {
+            "name": "Code Notes",
+            "link": "https://community.chocolatey.org/packages/code-notes",
+            "downloads": "492"
+        }
+    ],
+    "qownnotes": [
+        {
+            "name": "QOwnNotes",
+            "link": "https://community.chocolatey.org/packages/qownnotes",
+            "downloads": "33086"
+        }
+    ],
+    "devbox-gitsettings": [
+        {
+            "name": "Devbox Git Settings",
+            "link": "https://community.chocolatey.org/packages/Devbox-GitSettings",
+            "downloads": "1987"
+        }
+    ],
+    "atom": [
+        {
+            "name": "Atom (Portable)",
+            "link": "https://community.chocolatey.org/packages/atom.portable/1.58.0",
+            "extension": "portable",
+            "downloads": "2125"
+        },
+        {
+            "name": "Atom (Install)",
+            "link": "https://community.chocolatey.org/packages/atom.install/1.58.0",
+            "extension": "install",
+            "downloads": "73613"
+        }
+    ],
+    "obs-studio": [
+        {
+            "name": "OBS Studio",
+            "link": "https://community.chocolatey.org/packages/obs-studio",
+            "downloads": "203574"
+        },
+        {
+            "name": "OBS Studio (Install)",
+            "link": "https://community.chocolatey.org/packages/obs-studio.install",
+            "extension": "install",
+            "downloads": "199614"
+        }
+    ],
+    "obs-virtualcam": [
+        {
+            "name": "OBS-VirtualCam",
+            "link": "https://community.chocolatey.org/packages/obs-virtualcam",
+            "downloads": "4235"
+        }
+    ],
+    "obs-ndi": [
+        {
+            "name": "NewTek NDI integration for OBS Studio",
+            "link": "https://community.chocolatey.org/packages/obs-ndi",
+            "downloads": "2039"
+        }
+    ],
+    "lghub": [
+        {
+            "name": "lghub (Install)",
+            "link": "https://community.chocolatey.org/packages/lghub",
+            "downloads": "2647"
+        }
+    ],
+    "python": [
+        {
+            "name": "Python",
+            "link": "https://community.chocolatey.org/packages/python/3.10.1",
+            "downloads": "9104240"
+        },
+        {
+            "name": "Python x86",
+            "link": "https://community.chocolatey.org/packages/python.x86",
+            "extension": "x86",
+            "downloads": "6800"
+        },
+        {
+            "name": "Python-Powered Open Source Template Engine",
+            "link": "https://community.chocolatey.org/packages/Python.Cheetah",
+            "extension": "cheetah",
+            "downloads": "5511"
+        },
+        {
+            "name": "PyPy",
+            "link": "https://community.chocolatey.org/packages/python.pypy",
+            "extension": "pypy",
+            "downloads": "22176"
+        }
+    ],
+    "python-x86_32": [
+        {
+            "name": "[DEPRECATED] Python (32-bit)",
+            "link": "https://community.chocolatey.org/packages/python-x86_32",
+            "downloads": "180510"
+        }
+    ],
+    "pythonnet": [
+        {
+            "name": "Python .Net",
+            "link": "https://community.chocolatey.org/packages/pythonnet/2.0.0",
+            "downloads": "3215"
+        }
+    ],
+    "vscode-python": [
+        {
+            "name": "Python VSCode Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-python",
+            "downloads": "26897"
+        }
+    ],
+    "mysql-python": [
+        {
+            "name": "MySQL Connector Python (Install)",
+            "link": "https://community.chocolatey.org/packages/mysql-python",
+            "downloads": "811"
+        }
+    ],
+    "pywin32": [
+        {
+            "name": "Python for Windows Extensions",
+            "link": "https://community.chocolatey.org/packages/PyWin32",
+            "downloads": "17491"
+        }
+    ],
+    "python3": [
+        {
+            "name": "Python 3.x",
+            "link": "https://community.chocolatey.org/packages/python3/3.10.1",
+            "downloads": "10946307"
+        }
+    ],
+    "python2": [
+        {
+            "name": "Python 2.x",
+            "link": "https://community.chocolatey.org/packages/python2",
+            "downloads": "3747306"
+        }
+    ],
+    "visualstudio2017-workload-python": [
+        {
+            "name": "Python development workload for Visual Studio 2017",
+            "link": "https://community.chocolatey.org/packages/visualstudio2017-workload-python",
+            "downloads": "2159"
+        }
+    ],
+    "vscode-python-test-adapter": [
+        {
+            "name": "Python Test Explorer VSCode Extension",
+            "link": "https://community.chocolatey.org/packages/vscode-python-test-adapter",
+            "downloads": "945"
+        }
+    ],
+    "python3-x86_32": [
+        {
+            "name": "[DEPRECATED] Python 3.x (32-bit)",
+            "link": "https://community.chocolatey.org/packages/python3-x86_32",
+            "downloads": "13477"
+        }
+    ],
+    "python2-x86_32": [
+        {
+            "name": "[DEPRECATED] Python 2.x (32-bit)",
+            "link": "https://community.chocolatey.org/packages/python2-x86_32",
+            "downloads": "27845"
+        }
+    ],
+    "visualstudio2019-workload-python": [
+        {
+            "name": "Python development workload for Visual Studio 2019",
+            "link": "https://community.chocolatey.org/packages/visualstudio2019-workload-python",
+            "downloads": "3066"
+        }
+    ],
+    "visualstudio2022-workload-python": [
+        {
+            "name": "Python development workload for Visual Studio 2022",
+            "link": "https://community.chocolatey.org/packages/visualstudio2022-workload-python",
+            "downloads": "114"
+        }
+    ],
+    "ironpython": [
+        {
+            "name": "IronPython",
+            "link": "https://community.chocolatey.org/packages/ironpython",
+            "downloads": "21552"
+        }
+    ],
+    "wingide": [
+        {
+            "name": "Wing Python IDE",
+            "link": "https://community.chocolatey.org/packages/wingide",
+            "downloads": "353024"
+        }
+    ],
+    "wingide101": [
+        {
+            "name": "Wing 101 Python IDE",
+            "link": "https://community.chocolatey.org/packages/wingide101",
+            "downloads": "5763"
+        }
+    ],
+    "wingidepersonal": [
+        {
+            "name": "Wing Personal Python IDE",
+            "link": "https://community.chocolatey.org/packages/wingidepersonal",
+            "downloads": "4717"
+        }
+    ],
+    "miniconda": [
+        {
+            "name": "Miniconda (Python 2)",
+            "link": "https://community.chocolatey.org/packages/Miniconda",
+            "downloads": "20362"
+        }
+    ],
+    "anaconda2": [
+        {
+            "name": "Anaconda Distribution (Python 2.x)",
+            "link": "https://community.chocolatey.org/packages/anaconda2",
+            "downloads": "12614"
+        }
+    ],
+    "austin": [
+        {
+            "name": "Austin (Install)",
+            "link": "https://community.chocolatey.org/packages/austin",
+            "downloads": "981"
+        }
+    ],
+    "canopy": [
+        {
+            "name": "Enthought Canopy",
+            "link": "https://community.chocolatey.org/packages/canopy",
+            "downloads": "55220"
+        }
+    ],
+    "anaconda3": [
+        {
+            "name": "Anaconda Individual Edition (Python 3.x)",
+            "link": "https://community.chocolatey.org/packages/anaconda3",
+            "downloads": "308482"
+        }
+    ],
+    "dreampie": [
+        {
+            "name": "DreamPie",
+            "link": "https://community.chocolatey.org/packages/dreampie",
+            "downloads": "1003"
+        }
+    ],
+    "pip": [
+        {
+            "name": "Pip(Python) Installs Packages",
+            "link": "https://community.chocolatey.org/packages/pip",
+            "downloads": "310132"
+        }
+    ],
+    "miniconda3": [
+        {
+            "name": "Miniconda (Python 3.9)",
+            "link": "https://community.chocolatey.org/packages/miniconda3",
+            "downloads": "353014"
+        }
+    ],
+    "apincorepywr-vsix": [
+        {
+            "name": "VS solution template for Python REST Web API wrapper",
+            "link": "https://community.chocolatey.org/packages/apincorepywr-vsix",
+            "downloads": "214"
+        }
+    ],
+    "qbittorrent": [
+        {
+            "name": "qBittorrent",
+            "link": "https://community.chocolatey.org/packages/qbittorrent",
+            "downloads": "511441"
+        }
+    ],
+    "qbittorrent-enhanced": [
+        {
+            "name": "qbittorrent-enhanced (Install)",
+            "link": "https://community.chocolatey.org/packages/qbittorrent-enhanced",
+            "downloads": "16109"
+        }
+    ],
+    "ipfilter-updater": [
+        {
+            "name": "IPFilter Updater (Install)",
+            "link": "https://community.chocolatey.org/packages/ipfilter-updater/2.2.2.0",
+            "downloads": "2957"
+        }
+    ],
+    "duckietv": [
+        {
+            "name": "DuckieTV",
+            "link": "https://community.chocolatey.org/packages/duckietv/1.1.5",
+            "downloads": "125929"
+        }
+    ],
+    "revo-uninstaller": [
+        {
+            "name": "Revo Uninstaller Free (Install)",
+            "link": "https://community.chocolatey.org/packages/revo-uninstaller",
+            "downloads": "56547"
+        }
+    ],
+    "revo": [
+        {
+            "name": "[Deprecated] Revo Uninstaller",
+            "link": "https://community.chocolatey.org/packages/Revo.Uninstaller",
+            "extension": "uninstaller",
+            "downloads": "72005"
+        }
+    ],
+    "revouninstallerpro": [
+        {
+            "name": "Revo Uninstaller Pro",
+            "link": "https://community.chocolatey.org/packages/revouninstallerpro",
+            "downloads": "8162"
+        }
+    ],
+    "sumatrapdf": [
+        {
+            "name": "Sumatra PDF (Install)",
+            "link": "https://community.chocolatey.org/packages/sumatrapdf",
+            "downloads": "159370"
+        },
+        {
+            "name": "[Deprecated] Sumatra PDF (Commandline, Portable)",
+            "link": "https://community.chocolatey.org/packages/sumatrapdf.commandline",
+            "extension": "commandline",
+            "downloads": "96210"
+        },
+        {
+            "name": "Sumatra PDF (Portable)",
+            "link": "https://community.chocolatey.org/packages/sumatrapdf.portable",
+            "extension": "portable",
+            "downloads": "21096"
+        },
+        {
+            "name": "Sumatra PDF (Install)",
+            "link": "https://community.chocolatey.org/packages/sumatrapdf.install",
+            "extension": "install",
+            "downloads": "2574241"
+        }
+    ],
+    "teamviewer9": [
+        {
+            "name": "TeamViewer",
+            "link": "https://community.chocolatey.org/packages/teamviewer9",
+            "downloads": "19851"
+        }
+    ],
+    "teamviewer": [
+        {
+            "name": "teamviewer.portable",
+            "link": "https://community.chocolatey.org/packages/teamviewer.portable",
+            "extension": "portable",
+            "downloads": "18125"
+        },
+        {
+            "name": "TeamViewer Host",
+            "link": "https://community.chocolatey.org/packages/teamviewer.host",
+            "extension": "host",
+            "downloads": "498423"
+        }
+    ],
+    "teamviewer-qs": [
+        {
+            "name": "TeamViewer QuickSupport",
+            "link": "https://community.chocolatey.org/packages/teamviewer-qs",
+            "downloads": "619099"
+        }
+    ],
+    "teamviewer-chrome": [
+        {
+            "name": "TeamViewer for Chrome",
+            "link": "https://community.chocolatey.org/packages/teamviewer-chrome",
+            "downloads": "840"
+        }
+    ],
+    "teamviewer8": [
+        {
+            "name": "TeamViewer 8",
+            "link": "https://community.chocolatey.org/packages/teamviewer8",
+            "downloads": "6937"
+        }
+    ],
+    "teamviewer7": [
+        {
+            "name": "TeamViewer 7",
+            "link": "https://community.chocolatey.org/packages/teamviewer7",
+            "downloads": "3159"
+        }
+    ],
+    "solarwinds-take-control-teamviewer": [
+        {
+            "name": "SolarWinds Take Control TeamViewer (Install)",
+            "link": "https://community.chocolatey.org/packages/solarwinds-take-control-teamviewer",
+            "downloads": "605"
+        }
+    ],
+    "ammyy-admin": [
+        {
+            "name": "Ammyy Admin (Portable)",
+            "link": "https://community.chocolatey.org/packages/ammyy-admin",
+            "downloads": "7381"
+        }
+    ],
+    "anydesk": [
+        {
+            "name": "AnyDesk MSI (Install)",
+            "link": "https://community.chocolatey.org/packages/anydesk.install",
+            "extension": "install",
+            "downloads": "152014"
+        },
+        {
+            "name": "AnyDesk Exe (Portable or Install)",
+            "link": "https://community.chocolatey.org/packages/anydesk.portable",
+            "extension": "portable",
+            "downloads": "159479"
+        }
+    ],
+    "royalts": [
+        {
+            "name": "RoyalTS",
+            "link": "https://community.chocolatey.org/packages/RoyalTS",
+            "downloads": "28537"
+        }
+    ],
+    "royalts-v5": [
+        {
+            "name": "Royal TS V5",
+            "link": "https://community.chocolatey.org/packages/royalts-v5",
+            "downloads": "12814"
+        }
+    ],
+    "rdm": [
+        {
+            "name": "Remote Desktop Manager - Enterprise Edition",
+            "link": "https://community.chocolatey.org/packages/rdm",
+            "downloads": "54756"
+        }
+    ],
+    "royalts-v6": [
+        {
+            "name": "Royal TS V6",
+            "link": "https://community.chocolatey.org/packages/royalts-v6",
+            "downloads": "1872"
+        }
+    ],
+    "rdmfree": [
+        {
+            "name": "Remote Desktop Manager - Free Edition",
+            "link": "https://community.chocolatey.org/packages/rdmfree",
+            "downloads": "89362"
+        }
+    ],
+    "invantive-bridge-developers": [
+        {
+            "name": "Invantive Bridge for Developers",
+            "link": "https://community.chocolatey.org/packages/invantive-bridge-developers",
+            "downloads": "3293"
+        }
+    ],
+    "invantive-bridge-connectors-power-bi": [
+        {
+            "name": "Invantive(R) Bridge Connectors for Power BI",
+            "link": "https://community.chocolatey.org/packages/invantive-bridge-connectors-power-bi",
+            "downloads": "9254"
+        }
+    ],
+    "invantive-composition-for-word": [
+        {
+            "name": "Invantive(R) Composition for Word",
+            "link": "https://community.chocolatey.org/packages/invantive-composition-for-word",
+            "downloads": "19115"
+        }
+    ],
+    "invantive-bridge-power-bi-users": [
+        {
+            "name": "Invantive Bridge for Power BI Users",
+            "link": "https://community.chocolatey.org/packages/invantive-bridge-power-bi-users",
+            "downloads": "15056"
+        }
+    ],
+    "invantive-data-hub": [
+        {
+            "name": "Invantive(R) Data Hub",
+            "link": "https://community.chocolatey.org/packages/invantive-data-hub",
+            "downloads": "77231"
+        }
+    ],
+    "invantive-control-for-excel": [
+        {
+            "name": "Invantive(R) Control for Excel",
+            "link": "https://community.chocolatey.org/packages/invantive-control-for-excel",
+            "downloads": "50579"
+        }
+    ],
+    "invantive-query-tool": [
+        {
+            "name": "Invantive Query Tool",
+            "link": "https://community.chocolatey.org/packages/invantive-query-tool",
+            "downloads": "83160"
+        }
+    ],
+    "telegram": [
+        {
+            "name": "Telegram",
+            "link": "https://community.chocolatey.org/packages/telegram",
+            "downloads": "227452"
+        },
+        {
+            "name": "Telegram (Portable)",
+            "link": "https://community.chocolatey.org/packages/telegram.portable",
+            "extension": "portable",
+            "downloads": "36473"
+        },
+        {
+            "name": "Telegram (Install)",
+            "link": "https://community.chocolatey.org/packages/telegram.install",
+            "extension": "install",
+            "downloads": "323397"
+        }
+    ],
+    "franz": [
+        {
+            "name": "Franz (Portable)",
+            "link": "https://community.chocolatey.org/packages/franz",
+            "downloads": "17302"
+        }
+    ],
+    "rambox": [
+        {
+            "name": "Rambox Community-Edition",
+            "link": "https://community.chocolatey.org/packages/rambox",
+            "downloads": "29285"
+        }
+    ],
+    "nheko-reborn": [
+        {
+            "name": "Nheko - Native Desktop Matrix Client",
+            "link": "https://community.chocolatey.org/packages/nheko-reborn",
+            "downloads": "609"
+        }
+    ],
+    "unifiedremote": [
+        {
+            "name": "Unified Remote",
+            "link": "https://community.chocolatey.org/packages/unifiedremote",
+            "downloads": "6003"
+        }
+    ],
+    "vlc": [
+        {
+            "name": "VLC media player",
+            "link": "https://community.chocolatey.org/packages/vlc",
+            "downloads": "10082886"
+        }
+    ],
+    "mediathekview": [
+        {
+            "name": "MediathekView",
+            "link": "https://community.chocolatey.org/packages/MediathekView",
+            "downloads": "14674"
+        }
+    ],
+    "mpvnet": [
+        {
+            "name": "mpv.net",
+            "link": "https://community.chocolatey.org/packages/mpvnet.install",
+            "extension": "install",
+            "downloads": "4786"
+        }
+    ],
+    "zoom-outlook": [
+        {
+            "name": "Zoom Plugin for Microsoft Outlook",
+            "link": "https://community.chocolatey.org/packages/Zoom-Outlook",
+            "downloads": "768755"
+        }
+    ],
+    "zoom": [
+        {
+            "name": "Zoom Client for Meetings",
+            "link": "https://community.chocolatey.org/packages/zoom",
+            "downloads": "5431255"
+        }
+    ],
+    "zoom-client --version 4": [
+        {
+            "name": "Zoom Client for Meetings",
+            "link": "https://community.chocolatey.org/packages/zoom-client",
+            "extension": "6.20033.0407",
+            "downloads": "119026"
+        }
+    ],
+    "zoomit": [
+        {
+            "name": "ZoomIt",
+            "link": "https://community.chocolatey.org/packages/zoomit",
+            "downloads": "19966"
+        }
+    ],
+    "googleearth": [
+        {
+            "name": "Google Earth (Install)",
+            "link": "https://community.chocolatey.org/packages/googleearth",
+            "downloads": "153597"
+        }
+    ],
+    "gitdiffmargin": [
+        {
+            "name": "Git Diff Margin for Visual Studio 2013",
+            "link": "https://community.chocolatey.org/packages/GitDiffMargin.vs2013",
+            "extension": "vs2013",
+            "downloads": "930"
+        }
+    ],
+    "visioviewer2016": [
+        {
+            "name": "Microsoft Visio Viewer 2016",
+            "link": "https://community.chocolatey.org/packages/visioviewer2016",
+            "downloads": "25877"
+        }
+    ],
+    "visioviewer": [
+        {
+            "name": "Microsoft Visio Viewer",
+            "link": "https://community.chocolatey.org/packages/visioviewer",
+            "downloads": "21348"
+        }
+    ],
+    "yacreader": [
+        {
+            "name": "YACReader",
+            "link": "https://community.chocolatey.org/packages/yacreader",
+            "downloads": "2979"
+        }
+    ],
+    "comicrack": [
+        {
+            "name": "ComicRack (Install)",
+            "link": "https://community.chocolatey.org/packages/ComicRack",
+            "downloads": "6374"
+        }
+    ],
+    "spacesniffer": [
+        {
+            "name": "Space Sniffer",
+            "link": "https://community.chocolatey.org/packages/spacesniffer",
+            "downloads": "35778"
+        }
+    ],
+    "k9s": [
+        {
+            "name": "k9s: Kubernetes CLI To Manage Your Clusters In Style!",
+            "link": "https://community.chocolatey.org/packages/k9s",
+            "downloads": "31285"
+        }
+    ]
+}
