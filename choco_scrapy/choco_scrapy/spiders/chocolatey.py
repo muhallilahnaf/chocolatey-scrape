@@ -1,7 +1,7 @@
 import scrapy
 import json
 from scrapy.loader import ItemLoader
-from amazon_scrapy.items import ChocolateyItem
+from choco_scrapy.items import ChocolateyItem
 
 
 class ChocolateySpider(scrapy.Spider):
